@@ -1,0 +1,5 @@
+Add these four files to this folder (exact names):
+peer-review.jpg
+research-hero.jpg
+research-library.avif
+research-paper.webp
